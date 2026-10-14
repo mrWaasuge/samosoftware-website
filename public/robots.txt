@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samosoftware.com/sitemap.xml
